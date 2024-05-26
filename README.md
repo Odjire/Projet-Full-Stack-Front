@@ -4,7 +4,7 @@
 
 Faites "npm insall i" pour installer les packages nécessaires 
 ------------------------------------------------------------------------
-Faites "npm start" dans le navigateur pour lancer le projet
+Faites "npm start" dans le terminal pour lancer le projet
 ----------------------------------------------------------------------
 collez le lien suivant dans votre navigateur pour afficher la page "http://localhost:3000"
 -------------------------------------------------------------------------------------------------
